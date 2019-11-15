@@ -19,5 +19,6 @@ console.log(result);
 greeting();
 function fun(){
     alert('this is your function');
+    alert('this is not your function');
 }
 fun();
